@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#buttons{ 
+         width: 100%; 
+         height: 150px; 
+         background-color: purple; 
+          
+ } 
+  
+ #bt-n{ 
+     font-size: 15.6px; 
+     margin-top: 50px; 
+     padding: 15px; 
+         margin-left: 30px ; 
+ }
